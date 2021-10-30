@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://alibireci.github.io/csb-u310e/static/js/main.5867c537.chunk.js",
+    "main.js.map": "https://alibireci.github.io/csb-u310e/static/js/main.5867c537.chunk.js.map",
+    "runtime-main.js": "https://alibireci.github.io/csb-u310e/static/js/runtime-main.0918ada3.js",
+    "runtime-main.js.map": "https://alibireci.github.io/csb-u310e/static/js/runtime-main.0918ada3.js.map",
+    "static/js/2.40499cbd.chunk.js": "https://alibireci.github.io/csb-u310e/static/js/2.40499cbd.chunk.js",
+    "static/js/2.40499cbd.chunk.js.map": "https://alibireci.github.io/csb-u310e/static/js/2.40499cbd.chunk.js.map",
+    "index.html": "https://alibireci.github.io/csb-u310e/index.html",
+    "static/js/2.40499cbd.chunk.js.LICENSE.txt": "https://alibireci.github.io/csb-u310e/static/js/2.40499cbd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0918ada3.js",
+    "static/js/2.40499cbd.chunk.js",
+    "static/js/main.5867c537.chunk.js"
+  ]
+}
